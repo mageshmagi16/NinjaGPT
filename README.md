@@ -1,4 +1,5 @@
 # GPT - Large Language Model
+
 1. Tokenization
 2. Token Embeddings
 3. Attention Mechanism

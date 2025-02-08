@@ -6,6 +6,6 @@
 4. Multi-Head Attention
 5. Transformer Block
 6. Layer Normalization
-7. Pretraining
+7. Pretraining 
 8. Finetuning Classification
 9. Finetuning Instruction

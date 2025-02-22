@@ -7,5 +7,5 @@
 5. Transformer Block
 6. Layer Normalization
 7. Pretraining 
-8. Finetuning Classification
+8. Finetuning Classification 
 9. Finetuning Instruction

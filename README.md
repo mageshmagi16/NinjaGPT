@@ -8,4 +8,4 @@
 6. Layer Normalization
 7. Pretraining 
 8. Finetuning Classification 
-9. Finetuning Instruction
+9. Finetuning Instruction 
